@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/skiprox/running-man/issues"
   },
-  "homepage": "https://github.com/skiprox/running-man"
+  "homepage": "https://github.com/skiprox/running-man",
+  "dependencies": {
+    "lodash": "~3.0.1"
+  }
 }
