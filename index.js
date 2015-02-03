@@ -33,9 +33,17 @@ var quotes = [
 'Feel how soft my skin is.',
 'I do not want to touch his ass, I want to make him talk.',
 'Who is your daddy, and what does he do?',
+'Freeze in hell, Batman!',
+'You\'ve just been erased.',
+'I eat green beret\'s for breakfast, and right now I\'m very hungry.',
+'You\'re not sending me to the cooler.',
 'Do it now!',
+'Put that cookie down, now!',
 'You set us up!',
 'I want to ask you a bunch of questions and I want to have them answered immediately.',
+'Come with me if you want to live.',
+'Now remember, I could break your neck like a chicken\'s.',
+'One ugly mother fucker.',
 'Enough talk!',
 'Talk to the hand.',
 'Chill out, dickwad.',
@@ -54,7 +62,7 @@ var RunningMan = (function() {
 			return randomQuote;
 		},
 		stream: function() {
-
+			return spigot(quotes);
 		}
 	}
 
