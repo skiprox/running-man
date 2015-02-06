@@ -17,6 +17,7 @@ var quotes = [
 'You\'re fired!',
 'You\'re luggage.',
 'Because I\'m going to say please.',
+'Always winterize your pipes!',
 'Consider that a divorce.',
 'Listen to me very carefully.',
 'The iceman commeth.',
