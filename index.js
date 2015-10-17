@@ -56,9 +56,10 @@ var quotes = [
 
 var RunningMan = (function() {
 
+	var quotesLen = quotes.length;
+
 	var getRandomQuote = function() {
-		var quotesLen = quotes.length,
-			randomQuote = quotes[Math.floor(Math.random() * quotesLen)];
+		var randomQuote = quotes[Math.floor(Math.random() * quotesLen)];
 		return randomQuote;
 	}
 
