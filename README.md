@@ -1,5 +1,5 @@
 # running-man
-A Node Moduel Test Repo
+Arnold Schwarzenegger quotes at your fingertips
 
 ### Usage
 ```

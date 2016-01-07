@@ -1,7 +1,7 @@
 {
   "name": "running-man",
-  "version": "0.1.5",
-  "description": "A Node Module Test",
+  "version": "0.1.6",
+  "description": "Arnold Schwarzenegger quotes at your fingertips",
   "main": "index.js",
   "repository": {
     "type": "git",
