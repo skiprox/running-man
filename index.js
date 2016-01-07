@@ -52,7 +52,7 @@ var quotes = [
 	'My name is John Kimble, and I love my car.',
 	'Hey, you want to be a farmer? Here\'s a couple of acres!',
 	'What the fuck did I do wrong!'
-]
+];
 
 var RunningMan = (function() {
 
@@ -61,7 +61,7 @@ var RunningMan = (function() {
 	var getRandomQuote = function() {
 		var randomQuote = quotes[Math.floor(Math.random() * quotesLen)];
 		return randomQuote;
-	}
+	};
 
 	return {
 		quote: function() {
