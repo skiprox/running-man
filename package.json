@@ -1,0 +1,31 @@
+{
+  "name": "running-man",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "^0.4.5",
+    "load-grunt-tasks": "^3.4.0",
+    "running-man": "git+ssh://git@github.com/skiprox/running-man.git",
+    "stream-spigot": "^3.0.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^4.0.1",
+    "grunt-contrib-watch": "^0.6.1",
+    "load-grunt-tasks": "^3.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skiprox/running-man.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skiprox/running-man/issues"
+  },
+  "homepage": "https://github.com/skiprox/running-man#readme"
+}
