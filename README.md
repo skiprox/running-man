@@ -1,5 +1,7 @@
 # running-man
+
 Arnold Schwarzenegger quotes at your fingertips
+[See it in action!](http://skiprox.github.io/running-man/)
 
 ### Usage
 ```
